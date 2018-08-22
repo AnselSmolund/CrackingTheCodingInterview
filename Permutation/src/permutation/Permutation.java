@@ -1,4 +1,9 @@
+/*
+Ansel Smolund 8/22/18
 
+Given two strings, wirte a method to determine if one is a permuation
+of the other 
+*/
 package permutation;
 
 public class Permutation {

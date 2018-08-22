@@ -1,8 +1,12 @@
+/*
+Ansel Smolund 8/22/18
 
+Implement an algorithm to determine if a string has all unique characters
+*/
 import java.util.ArrayList;
 import java.util.Objects;
 
-//Implement an algorithm to determine if a string has all unique characters
+
 public class isUnique {
 
     public static boolean isUniqueChars(String str){

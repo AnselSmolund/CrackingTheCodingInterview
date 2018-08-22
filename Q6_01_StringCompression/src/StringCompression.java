@@ -1,4 +1,12 @@
+/*
+Ansel Smolund 8/22/18
 
+Implement a method to perform basic string compression using the 
+counts of repeated chatacters 
+
+ex. aaaabbbcccaa -> a4b3c3a2
+
+*/
 public class StringCompression {
     public static String compress(String str){
         int count = 1;

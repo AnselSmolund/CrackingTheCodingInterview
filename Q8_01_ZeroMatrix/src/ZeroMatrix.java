@@ -1,4 +1,11 @@
 
+/*
+Ansel Smolund 8/22/18
+
+Write an algorithm such that if an element in a NxN matrix is 0, the 
+entire row and column are set to 0
+
+*/
 import static java.lang.Integer.parseInt;
 import java.util.ArrayList;
 

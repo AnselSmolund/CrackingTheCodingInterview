@@ -1,8 +1,13 @@
 
+/*
+Ansel Smolund 8/22/18
+
+Given a string, write a function to check if it is a permutation
+of a palindrome
+
+*/
 import java.util.Arrays;
 
-//Given a string, write a function to check if it is a permutation
-//of a palindrome
 public class PalindromePermutation {
     public static int[] charCount(String str){
         int[]result = new int[128];

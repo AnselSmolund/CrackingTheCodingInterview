@@ -1,4 +1,10 @@
+/*
+Ansel Smolund 8/22/18
 
+Given an image represented by an NxN matrix, where each pixel in the image is 4
+bytes, write a method to rotate the image by 90 deg
+
+*/
 public class RotateMatrix {
     public static int[][] rotate(int[][]matrix){
         int x = matrix.length-1; 

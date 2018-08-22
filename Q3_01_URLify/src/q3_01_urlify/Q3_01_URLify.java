@@ -1,4 +1,8 @@
+/*
+Ansel Smolund 8/22/18
 
+Write a method to replace all spaces in a string with '%20'
+*/
 package q3_01_urlify;
 
 import java.util.Arrays;
